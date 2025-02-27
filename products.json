@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Apple iPhone 14 Pro",
+      "price": 1099,
+      "oldPrice": 1199,
+      "description": "128GB, Space Black, Super Retina XDR display",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": 1199,
+      "oldPrice": 1299,
+      "description": "256GB, Phantom Black, 200MP Camera",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 7 Pro",
+      "price": 899,
+      "oldPrice": 999,
+      "description": "128GB, Obsidian, Tensor G2 chip",
+      "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-7-pro-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 11 5G",
+      "price": 799,
+      "oldPrice": 899,
+      "description": "256GB, Eternal Green, Snapdragon 8 Gen 2",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-11-5g-1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi 13 Pro",
+      "price": 999,
+      "oldPrice": 1099,
+      "description": "512GB, Ceramic Black, 1-inch sensor camera",
+      "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-13-pro-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy Z Fold 4",
+      "price": 1799,
+      "oldPrice": 1899,
+      "description": "512GB, Beige, Foldable AMOLED display",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-fold4-5g-1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Asus ROG Phone 6",
+      "price": 999,
+      "oldPrice": 1099,
+      "description": "512GB, Storm White, Gaming Phone",
+      "image": "https://fdn2.gsmarena.com/vv/pics/asus/asus-rog-phone-6-1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sony Xperia 1 IV",
+      "price": 1299,
+      "oldPrice": 1399,
+      "description": "256GB, Frosted Black, 4K OLED display",
+      "image": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-1-iv-1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Apple iPhone SE (2022)",
+      "price": 429,
+      "oldPrice": 499,
+      "description": "128GB, Midnight, A15 Bionic chip",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-2022-1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Nothing Phone (1)",
+      "price": 599,
+      "oldPrice": 699,
+      "description": "256GB, Transparent, Glyph Interface",
+      "image": "https://fdn2.gsmarena.com/vv/pics/nothing/nothing-phone-1-1.jpg"
+    }
+  ]
+  
