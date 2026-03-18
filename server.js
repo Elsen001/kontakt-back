@@ -1,3 +1,7 @@
+// Node.js built-in dns modulunu istifadə edərək Google/Cloudflare DNS-ə məcbur et
+const dns = require('node:dns/promises');
+dns.setServers(['1.1.1.1', '8.8.8.8', '1.0.0.1', '8.8.4.4']);
+
 const express = require('express');
 const cors = require('cors');
 const { MongoClient } = require('mongodb');
